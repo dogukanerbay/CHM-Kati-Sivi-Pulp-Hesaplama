@@ -55,15 +55,6 @@ Gereksinim: Python 3.x
 | Pulpte sıvı oranı | %70.00 |
 | Katı/sıvı oranı | %42.86 |
 
-## Ekran görüntüsü
-
-_(Uygulamanın çalışırken ekran görüntüsünü buraya ekle.)_
-
-## Geliştirme planı
-
-- [ ] Pulp yoğunluğu hesabı (katı özgül ağırlığı girişi ile)
-- [ ] Hedef katı oranına ulaşmak için eklenecek su miktarı
-- [ ] Sonuçların Excel'e aktarılması
 
 ## Geliştirici
 
